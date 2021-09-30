@@ -1,0 +1,71 @@
+2021-07-26 20:06:48 WARN  class:55 - Sorry...Entered center id already exists.error for center id 113
+2021-07-26 20:09:36 WARN  class:55 - Sorry...Entered center id already exists.error for center id 115
+2021-07-26 20:12:19 WARN  class:55 - Sorry...Entered center id already exists.error for center id 112
+2021-07-26 21:03:23 INFO  class:17 - inside BloodBankCenterApplication class, application started
+2021-07-26 21:03:35 INFO  class:444 - inside getall method, results are printed on the screen successfully..
+2021-07-26 21:03:35 INFO  class:42 - inside BloodBankCenterService class,getAllBloodBankCenters method is executed
+2021-07-26 21:03:35 INFO  class:45 - inside BloodBankController class,getAllBloodBankCenters method is executed
+2021-07-26 21:03:35 INFO  class:124 - inside BloodBankApplication class, read method is called
+2021-07-26 21:03:35 INFO  class:131 - inside BloodBankCenterService class,application closed
+2021-07-26 21:05:02 INFO  class:17 - inside BloodBankCenterApplication class, application started
+2021-07-26 21:05:54 INFO  class:17 - inside BloodBankCenterApplication class, application started
+2021-07-26 21:06:20 INFO  class:444 - inside getall method, results are printed on the screen successfully..
+2021-07-26 21:06:20 INFO  class:42 - inside BloodBankCenterService class,getAllBloodBankCenters method is executed
+2021-07-26 21:06:20 INFO  class:45 - inside BloodBankController class,getAllBloodBankCenters method is executed
+2021-07-26 21:06:20 INFO  class:124 - inside BloodBankApplication class, read method is called
+2021-07-26 21:06:20 INFO  class:131 - inside BloodBankCenterService class,application closed
+2021-07-28 07:49:43 INFO  class:17 - inside BloodBankCenterApplication class, application started
+2021-07-28 07:51:15 INFO  class:157 - inside updateBloodBankCenter,update is completed
+2021-07-28 07:51:15 INFO  class:33 - inside BloodBankCenterService class,update method is executed
+2021-07-28 07:51:15 INFO  class:36 - inside BloodBankController class,updateBloodBankCenterById method is executed
+2021-07-28 07:51:15 INFO  class:75 - inside BloodBankApplication class,update method is ended
+2021-07-28 07:51:15 INFO  class:132 - inside BloodBankApplication class,application closed
+2021-07-28 13:12:55 INFO  class:88 - inside deleteBloodBankCenterByCenterId, deletion is completed for center id 129
+2021-07-28 13:12:55 INFO  class:54 - Inside addBloodBankCenterImp method 1's affected/inserted for center id 134
+2021-07-28 13:15:39 INFO  class:88 - inside deleteBloodBankCenterByCenterId, deletion is completed for center id 130
+2021-07-28 13:15:39 INFO  class:54 - Inside addBloodBankCenterImp method 1's affected/inserted for center id 135
+2021-07-28 13:19:04 INFO  class:88 - inside deleteBloodBankCenterByCenterId, deletion is completed for center id 131
+2021-07-28 13:22:31 INFO  class:88 - inside deleteBloodBankCenterByCenterId, deletion is completed for center id 132
+2021-07-28 13:26:11 INFO  class:88 - inside deleteBloodBankCenterByCenterId, deletion is completed for center id 132
+2021-07-28 13:29:30 INFO  class:88 - inside deleteBloodBankCenterByCenterId, deletion is completed for center id 132
+2021-07-28 13:32:00 INFO  class:88 - inside deleteBloodBankCenterByCenterId, deletion is completed for center id 132
+2021-07-28 13:32:00 INFO  class:54 - Inside addBloodBankCenterImp method 1's affected/inserted for center id 136
+2021-07-28 14:20:23 INFO  class:17 - inside BloodBankCenterApplication class, application started
+2021-07-28 14:20:40 WARN  class:95 - Couldn't delete... Entered center id doesn't exist...error for center id -1
+2021-07-28 14:20:40 INFO  class:24 - inside BloodBankCenterService class,delete method is executed
+2021-07-28 14:20:40 INFO  class:27 - inside BloodBankController class,deleteBloodBankCenterByCenterId method is executed
+2021-07-28 14:20:40 INFO  class:84 - inside BloodBankApplication class, delete method is ended
+2021-07-28 14:20:40 INFO  class:131 - inside BloodBankApplication class,application closed
+2021-07-28 14:21:24 INFO  class:17 - inside BloodBankCenterApplication class, application started
+2021-07-28 14:21:48 INFO  class:54 - Inside addBloodBankCenterImp method 1's affected/inserted for center id -1
+2021-07-28 14:21:48 INFO  class:15 - inside BloodBankCenterService class, add method is executed
+2021-07-28 14:21:48 INFO  class:17 - inside BloodBankController class,addBloodBankCenter method is executed
+2021-07-28 14:21:48 INFO  class:41 - inside BloodBankApplication class, add method is ended
+2021-07-28 14:21:48 INFO  class:131 - inside BloodBankApplication class,application closed
+2021-07-28 15:07:29 INFO  class:17 - inside BloodBankCenterApplication class, application started
+2021-07-28 15:08:29 INFO  class:453 - inside getall method, results are printed on the screen successfully..
+2021-07-28 15:08:29 INFO  class:42 - inside BloodBankCenterService class,getAllBloodBankCenters method is executed
+2021-07-28 15:08:29 INFO  class:45 - inside BloodBankController class,getAllBloodBankCenters method is executed
+2021-07-28 15:08:29 INFO  class:124 - inside BloodBankApplication class, read method is ended
+2021-07-28 15:08:29 INFO  class:131 - inside BloodBankApplication class,application closed
+2021-07-28 15:09:02 INFO  class:17 - inside BloodBankCenterApplication class, application started
+2021-07-28 15:09:15 INFO  class:297 - inside getBloodBankCenterbyPincode, results are printed on the screen
+2021-07-28 15:09:15 INFO  class:69 - inside BloodBankCenterService class,getBloodBankCenterByPincode method is executed
+2021-07-28 15:09:15 INFO  class:72 - inside BloodBankController class,getBloodBankCenterByPincode method is executed
+2021-07-28 15:09:15 INFO  class:124 - inside BloodBankApplication class, read method is ended
+2021-07-28 15:09:15 INFO  class:131 - inside BloodBankApplication class,application closed
+2021-07-28 15:09:30 INFO  class:17 - inside BloodBankCenterApplication class, application started
+2021-07-28 15:09:47 WARN  class:324 - Hmm...Entered pincode doesn't exist in our database...error for center id null
+2021-07-28 15:09:47 WARN  class:300 - nullerror for center id null
+2021-07-28 15:09:47 INFO  class:69 - inside BloodBankCenterService class,getBloodBankCenterByPincode method is executed
+2021-07-28 15:09:47 INFO  class:72 - inside BloodBankController class,getBloodBankCenterByPincode method is executed
+2021-07-28 15:09:47 INFO  class:124 - inside BloodBankApplication class, read method is ended
+2021-07-28 15:09:47 INFO  class:131 - inside BloodBankApplication class,application closed
+2021-07-28 15:10:28 INFO  class:17 - inside BloodBankCenterApplication class, application started
+2021-07-28 15:11:00 INFO  class:54 - Inside addBloodBankCenterImp method 1's affected/inserted for center id 136
+2021-07-28 15:11:00 INFO  class:15 - inside BloodBankCenterService class, add method is executed
+2021-07-28 15:11:00 INFO  class:17 - inside BloodBankController class,addBloodBankCenter method is executed
+2021-07-28 15:11:00 INFO  class:41 - inside BloodBankApplication class, add method is ended
+2021-07-28 15:11:00 INFO  class:131 - inside BloodBankApplication class,application closed
+2021-07-28 15:12:08 INFO  class:88 - inside deleteBloodBankCenterByCenterId, deletion is completed for center id 132
+2021-07-28 15:12:09 WARN  class:58 - Sorry...Entered center id already exists.error for center id 136
